@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Orders Notification</string>
+    <string name="instruction">Listening for incoming orders...</string>
+    <string name="result">Brygid Online Order : %s</string>
+</resources>
